@@ -6,6 +6,8 @@ Jedmud was developed on NodeJs v16. It may or may not work on other versions.
 
 Working example covering most features: https://github.com/jedmud/tui-example
 
+![TUI](tui.png)
+
 ## Slots
 
 `npm i @jedmud/tui-slots`
@@ -21,8 +23,6 @@ Example: https://github.com/jedmud/tui-example/src/examples/slots.js
 Elements give slots behavior. Each element configuration may have different available options.
 
 Example: https://github.com/jedmud/tui-example/src/examples/box.js
-
-![TUI](tui.png)
 
 ### Official element types
 
