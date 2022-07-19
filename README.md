@@ -66,3 +66,11 @@ node .
 ```
 
 There are also more specific and simpler working code examples in the `examples` folder.
+
+## Helpers
+
+### Keypress
+
+Emitts keypress events from the terminal. Of course you can use your own solution for that.
+
+`npm i @jedmud/keypress`
