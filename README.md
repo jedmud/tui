@@ -2,6 +2,8 @@
 
 JedMud TUI is a experimental terminal user interface for the NodeJs framework. It uses ANSI escape codes to write elements on the screen.
 
+Jedmud was developen on NodeJs v16. It may or may not work on other versions.
+
 Working example covering most features: https://github.com/jedmud/tui-example
 
 ## Slots
@@ -12,7 +14,7 @@ Example: https://github.com/jedmud/tui-example/src/examples/slots.js
 
 ## Elements
 
-Elements give slots a Behaviour. Each element configuration may have different available options.
+Elements give slots behavior. Each element configuration may have different available options.
 
 Example: https://github.com/jedmud/tui-example/src/examples/box.js
 
@@ -20,10 +22,29 @@ Example: https://github.com/jedmud/tui-example/src/examples/box.js
 
 #### Box
 
+https://github.com/jedmud/tui-example/src/examples/box.js
+
 #### Prompt
+
+https://github.com/jedmud/tui-example/src/examples/prompt.js
 
 #### Scroller
 
+https://github.com/jedmud/tui-example
+
 #### Metrics
 
+https://github.com/jedmud/tui-example
+
 #### Timer
+
+https://github.com/jedmud/tui-example
+
+## How to install example module
+
+```
+git clone https://github.com/jedmud/tui-example
+cd tui-example
+npm i
+node .
+```
