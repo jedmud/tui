@@ -6,7 +6,7 @@ Jedmud was developed on NodeJs v16. It may or may not work on other versions.
 
 Working example covering most features: https://github.com/jedmud/tui-example
 
-![TUI](tui.png)
+![TUI](tui.png?raw=true)
 
 ## Slots
 
