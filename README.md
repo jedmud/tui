@@ -14,7 +14,7 @@ Working example covering most features: https://github.com/jedmud/tui-example
 
 Slots define element positions relative to screen parameters. One slot may be used by multiple elements. Also multiple elements instances may get parameters from one slots instance.
 
-Example: https://github.com/jedmud/tui-example/src/examples/slots.js
+Example: https://github.com/jedmud/tui-example/tree/master/src/examples/slots.js
 
 ## Elements
 
@@ -22,7 +22,7 @@ Example: https://github.com/jedmud/tui-example/src/examples/slots.js
 
 Elements give slots behavior. Each element configuration may have different available options.
 
-Example: https://github.com/jedmud/tui-example/src/examples/box.js
+Example: https://github.com/jedmud/tui-example/tree/master/src/examples/box.js
 
 ### Official element types
 
@@ -30,13 +30,13 @@ Example: https://github.com/jedmud/tui-example/src/examples/box.js
 
 `npm i @jedmud/tui-box-element`
 
-https://github.com/jedmud/tui-example/src/examples/box.js
+https://github.com/jedmud/tui-example/tree/master/src/examples/box.js
 
 #### Prompt
 
 `npm i @jedmud/tui-prompt-element`
 
-https://github.com/jedmud/tui-example/src/examples/prompt.js
+https://github.com/jedmud/tui-example/tree/master/src/examples/prompt.js
 
 #### Scroller
 
