@@ -74,3 +74,5 @@ There are also more specific and simpler working code examples in the `examples`
 Emitts keypress events from the terminal. Of course you can use your own solution for that.
 
 `npm i @jedmud/keypress`
+
+https://github.com/jedmud/tui-example/tree/master/src/examples/prompt.js
